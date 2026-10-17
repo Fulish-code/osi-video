@@ -9,6 +9,8 @@ segmento llega tarde o se pierde.
 
 Hecho por Sergio Verdugo.
 
+Video: https://youtu.be/ER0ayaa9PpQ
+
 ## Requisitos
 
 - Linux. El video se generó en Arch; `instalar.sh` contempla también
